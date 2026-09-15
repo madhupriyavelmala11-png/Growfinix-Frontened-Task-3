@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "Quantum Pro Laptop",
+    "category": "Electronics",
+    "price": 107899.17,
+    "rating": 4.8,
+    "stock": "In Stock",
+    "brand": "TechCorp",
+    "description": "High-performance laptop for professionals with 16GB RAM and 512GB SSD.",
+    "image": "/images/product-1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "UltraView 4K Monitor",
+    "category": "Electronics",
+    "price": 29008.5,
+    "rating": 4.5,
+    "stock": "Low Stock",
+    "brand": "VisionX",
+    "description": "27-inch 4K UHD monitor with HDR support and slim bezels.",
+    "image": "/images/product-2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "ErgoFit Running Shoes",
+    "category": "Sports",
+    "price": 9959.17,
+    "rating": 4.7,
+    "stock": "In Stock",
+    "brand": "AeroStride",
+    "description": "Lightweight and breathable running shoes with advanced cushioning.",
+    "image": "/images/product-3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Classic Denim Jacket",
+    "category": "Clothing",
+    "price": 6639.17,
+    "rating": 4.3,
+    "stock": "Out of Stock",
+    "brand": "UrbanWear",
+    "description": "Timeless denim jacket with a comfortable, relaxed fit.",
+    "image": "/images/product-4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Smart Home Hub",
+    "category": "Home",
+    "price": 12367.0,
+    "rating": 4.2,
+    "stock": "In Stock",
+    "brand": "NexusHome",
+    "description": "Centralize all your smart home devices with voice control.",
+    "image": "/images/product-5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Noise-Cancelling Headphones",
+    "category": "Electronics",
+    "price": 24817.0,
+    "rating": 4.9,
+    "stock": "In Stock",
+    "brand": "SoundWave",
+    "description": "Industry-leading noise cancellation with 30-hour battery life.",
+    "image": "/images/product-6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Yoga Mat Pro",
+    "category": "Sports",
+    "price": 3319.17,
+    "rating": 4.6,
+    "stock": "In Stock",
+    "brand": "ZenFlex",
+    "description": "Eco-friendly, non-slip yoga mat suitable for all levels.",
+    "image": "/images/product-7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "The Great Gatsby",
+    "category": "Books",
+    "price": 1244.17,
+    "rating": 4.8,
+    "stock": "In Stock",
+    "brand": "Penguin Classics",
+    "description": "Classic novel by F. Scott Fitzgerald exploring the American Dream.",
+    "image": "/images/product-8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Ceramic Coffee Mug",
+    "category": "Home",
+    "price": 1535.5,
+    "rating": 4.1,
+    "stock": "Low Stock",
+    "brand": "ArtisanCrafters",
+    "description": "Handcrafted ceramic mug with a unique speckled glaze.",
+    "image": "/images/product-9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Wireless Charging Pad",
+    "category": "Electronics",
+    "price": 2489.17,
+    "rating": 4.0,
+    "stock": "In Stock",
+    "brand": "TechCorp",
+    "description": "Fast wireless charging pad compatible with all Qi-enabled devices.",
+    "image": "/images/product-10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Cotton Crewneck T-Shirt",
+    "category": "Clothing",
+    "price": 1992.0,
+    "rating": 4.4,
+    "stock": "In Stock",
+    "brand": "UrbanWear",
+    "description": "Soft and durable 100% cotton t-shirt for everyday wear.",
+    "image": "/images/product-11.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Dumbbell Set (20lbs)",
+    "category": "Sports",
+    "price": 4979.17,
+    "rating": 4.7,
+    "stock": "In Stock",
+    "brand": "IronGym",
+    "description": "Pair of 20lb hex dumbbells with ergonomic grips.",
+    "image": "/images/product-12.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Introduction to Algorithms",
+    "category": "Books",
+    "price": 7055.0,
+    "rating": 4.9,
+    "stock": "Low Stock",
+    "brand": "MIT Press",
+    "description": "Comprehensive textbook on computer algorithms.",
+    "image": "/images/product-13.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Robot Vacuum Cleaner",
+    "category": "Home",
+    "price": 20749.17,
+    "rating": 4.5,
+    "stock": "In Stock",
+    "brand": "CleanBot",
+    "description": "Smart robot vacuum with mapping and automatic docking.",
+    "image": "/images/product-14.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Smartphone Pro Max",
+    "category": "Electronics",
+    "price": 91217.0,
+    "rating": 4.8,
+    "stock": "In Stock",
+    "brand": "TechCorp",
+    "description": "Flagship smartphone with an advanced triple camera system.",
+    "image": "/images/product-15.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Winter Parka Coat",
+    "category": "Clothing",
+    "price": 15728.5,
+    "rating": 4.6,
+    "stock": "Out of Stock",
+    "brand": "NordicGear",
+    "description": "Water-resistant, insulated coat for extreme winter conditions.",
+    "image": "/images/product-16.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Bestselling Fiction Novel",
+    "category": "Books",
+    "price": 1826.0,
+    "rating": 4.3,
+    "stock": "In Stock",
+    "brand": "HarperCollins",
+    "description": "A thrilling mystery novel that will keep you guessing.",
+    "image": "/images/product-17.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Tennis Racket Pro",
+    "category": "Sports",
+    "price": 12035.0,
+    "rating": 4.7,
+    "stock": "In Stock",
+    "brand": "SmashAces",
+    "description": "Professional-grade tennis racket for power and precision.",
+    "image": "/images/product-18.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Aromatherapy Diffuser",
+    "category": "Home",
+    "price": 2904.17,
+    "rating": 4.2,
+    "stock": "In Stock",
+    "brand": "ZenLife",
+    "description": "Ultrasonic essential oil diffuser with LED ambient lighting.",
+    "image": "/images/product-19.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Gaming Mechanical Keyboard",
+    "category": "Electronics",
+    "price": 10789.17,
+    "rating": 4.8,
+    "stock": "In Stock",
+    "brand": "GamerX",
+    "description": "RGB mechanical keyboard with tactile switches for gaming.",
+    "image": "/images/product-20.jpg"
+  }
+]
