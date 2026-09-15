@@ -1,16 +1,59 @@
-# React + Vite
+# Dynamic Product Display Grid
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A responsive web application that displays product information dynamically using JSON data. The project includes search, category filtering, and sorting features to make it easy for users to find and organize products.
 
-Currently, two official plugins are available:
+## About the Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+This project was developed as part of **Task 3: Dynamic Data Display Grid**.
 
-## React Compiler
+The main goal of the project is to demonstrate how JSON data can be loaded and displayed dynamically in a responsive grid. Instead of creating each product card manually, the application generates the cards from the available data.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Users can search for products, filter them by category, and sort them based on different criteria.
 
-## Expanding the Oxlint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+- Dynamic product cards generated from JSON data
+- Search products by name, brand, or category
+- Filter products by category
+- Sort products by:
+  - Name (A-Z)
+  - Name (Z-A)
+  - Price (Low to High)
+  - Price (High to Low)
+  - Rating (High to Low)
+- Displays the number of products currently shown
+- Clear filters option
+- Empty state when no products are found
+- Responsive design for desktop, tablet, and mobile
+- Clean and user-friendly interface
+- Reusable React components
+
+## Technologies Used
+
+- React
+- JavaScript
+- HTML
+- CSS
+- Vite
+- JSON
+
+## Project Structure
+
+```text
+dynamic-product-grid/
+│
+├── public/
+│
+├── src/
+│   ├── components/
+│   ├── data/
+│   │   └── products.json
+│   ├── App.jsx
+│   ├── App.css
+│   └── main.jsx
+│
+├── index.html
+├── package.json
+├── package-lock.json
+├── vite.config.js
+└── README.md
